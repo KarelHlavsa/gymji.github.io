@@ -1,1 +1,0 @@
-# gymji.github.io

@@ -18,6 +18,12 @@ p {
 
 /* Styl diskografie */
 .songs {
-    text-align: start;
     background-color: #ffd16d;
+    padding: 20px;
+    text-align: start;
+}
+
+/* Styl první divize */
+.first {
+    text-align: center;
 }

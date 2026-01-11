@@ -32,6 +32,7 @@ p {
 }
 .songs.inner {
     background-color: #ffd16d;
-    padding: 10px
+    padding: 10px;
+    text-align:center;
 }
 

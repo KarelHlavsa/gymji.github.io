@@ -20,6 +20,10 @@ p {
     text-align: center;
 }
 
+ol {
+    text-align: center;
+}
+
 /* Styl první divize */
 .first {
     text-align: center;
@@ -28,7 +32,7 @@ p {
 /* Styl diskografie */
 .songs.outer {
     background-color:  #6abada;
-    padding: 20px
+    padding: 40px
 }
 .songs.inner {
     background-color: #ffd16d;

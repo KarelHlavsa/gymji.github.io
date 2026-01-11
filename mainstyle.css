@@ -16,14 +16,18 @@ p {
     text-align: center;
 }
 
-/* Styl diskografie */
-.songs {
-    background-color: #ffd16d;
-    padding: 20px;
-    text-align: start;
-}
-
 /* Styl první divize */
 .first {
     text-align: center;
 }
+
+/* Styl diskografie */
+,songs.outer {
+    background-color:  #6abada;
+    padding: 20px
+.songs.inner {
+    background-color: #ffd16d;
+    text-align: start;
+    padding: 10px
+}
+

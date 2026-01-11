@@ -1,0 +1,22 @@
+body {
+    background-color: #6abada;
+}
+
+h1 {
+    text-align: center;
+    font: bold;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+/* Styl diskografie */
+.songs {
+    text-align: start;
+    background-color: #ffd16d;
+}
